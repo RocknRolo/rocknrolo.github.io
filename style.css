@@ -1,0 +1,28 @@
+body {
+    background: #222;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#projects_list {
+    background-color: black;
+    text-align: center;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.list_item a {
+    color: white;
+    font-family: sans-serif;
+    font-size: 2rem;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: yellow;
+}
